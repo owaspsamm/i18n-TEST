@@ -1,5 +1,5 @@
 files:
   - source: /Model/*.yml
     translation: /Translation/%two_letters_code%/%original_file_name%
-    excluded_language:
-    - frbe
+    excluded_target_languages:
+    - it
