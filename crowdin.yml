@@ -1,11 +1,3 @@
 files:
-  - source: /Model/*.yml
-    translation: /Translation/%two_letters_code%/%original_file_name%
-    excluded_target_languages:
-      - nl
-      - fr
-      - de
-      - pt-BR
-      - ru
-      - es-ES
-      - tr
+  - source: /model/**.yml
+    translation: /%two_letters_code%/%original_file_name%
