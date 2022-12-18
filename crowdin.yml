@@ -1,6 +1,12 @@
 files:
-  - source: /Model/*.yml
-    translation: /Translation/%two_letters_code%/%original_file_name%
+  - source: /model/**/*.yml
+    translation: '%original_path%/%original_file_name%'
     excluded_target_languages:
-      - it
-      - fr-BE
+    - nl
+    - fr
+    - de
+    - pt-BR
+    - ru
+    - es-ES
+    - tr
+    
