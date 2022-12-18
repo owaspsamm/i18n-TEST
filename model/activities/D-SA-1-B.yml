@@ -19,12 +19,12 @@ title: Identify tools and technologies
 benefit: Transparency of technologies that introduce security risk
 
 #A one sentence description of the activity
-shortDescription: Elicit technologies, frameworks and integrations within the overall
+shortDescription: 2.0.1 Elicit technologies, frameworks and integrations within the overall
   solution to identify risk.
 
 #A multi-paragraph description of the activity
 longDescription: |
-  People often take the path of least resistance in developing, deploying or operating a software solution. New technologies are often included when they can facilitate or speed up the effort or enable the solution to scale better. These new technologies might, however, introduce new risks to the organization that you need to manage.
+  2.0.1 People often take the path of least resistance in developing, deploying or operating a software solution. New technologies are often included when they can facilitate or speed up the effort or enable the solution to scale better. These new technologies might, however, introduce new risks to the organization that you need to manage.
 
   Identify the most important technologies, frameworks, tools and integrations being used for each application. Use the knowledge of the architect to study the development and operating environment as well as artefacts. Then evaluate them for their security quality and raise important findings to be managed.
 
