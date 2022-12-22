@@ -4,3 +4,5 @@ files:
     excluded_target_languages:
       - it
       - fr-BE
+      - nl
+      - zh-TW
