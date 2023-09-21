@@ -1,35 +1,9 @@
----
-#===========================================================
-#OWASP SAMM Activity Description
-#===========================================================
-#Link to the stream that this activity belongs to
-stream: 79754453c74b4143b20a57d0efdaab56
-#Link to the practice level that this activity belongs to
-level: a11b78917dec4cfdad983cf6d1d17b61
-#Unique identifier (GUID) used to refer to this activity.
-#Please generate another identifier for your specific activity.
-id: 27cdd2a336a44e56a42632c7a78fcf4f
 #The title of this activity
-title: Identify tools and technologies
+title: Dit is een test file
 #Describe the benefit that is achieved by implementing this activity
-benefit: Transparency of technologies that introduce security risk
+benefit: Dit is een test file
 #A one sentence description of the activity
 shortDescription: 2.0.1 TEST translated
 #A multi-paragraph description of the activity
 longDescription: |
   2.0.1 TEST translated long
-#The output of this particular activity
-results:
-#The different metrics that can be used to measure the success of the activity
-metrics:
-#A description of the costs required to implement the activity
-costs:
-#The (standard) roles involved in the implementation of this activity
-personnel:
-#Internal notes that might help the author
-notes:
-#References to other activities that are prerequisites to implement this one.
-relatedActivities:
-  - e17d573510904f65a1fe6040b56ad0b1
-#Type Classification of the Document
-type: Activity
