@@ -1,0 +1,7 @@
+#One-sentence description of the criterium
+text: NEW Do you base your design on available reference architectures? NEW
+#Qualifying Criterion
+quality:
+  - NEWYou have one or more approved reference architectures documented and available to stakeholdersNEW
+  - NEWYou improve the reference architectures continuously based on insights and best practicesNEW
+  - NEWYou provide a set of components, libraries, and tools to implement each reference architectureNEW
