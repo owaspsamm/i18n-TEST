@@ -1,0 +1,9 @@
+#The title of this activity
+title: Dit is een test file
+#Describe the benefit that is achieved by implementing this activity
+benefit: Dit is een test file
+#A one sentence description of the activity
+shortDescription: 2.0.1 TEST translated
+#A multi-paragraph description of the activity
+longDescription: |
+  2.0.1 TEST translated long
